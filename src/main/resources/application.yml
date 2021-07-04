@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://harshitkhanna:harshitkhanna@hendrixcluster.iyqlv.mongodb.net/testdb?retryWrites=true&w=majority
